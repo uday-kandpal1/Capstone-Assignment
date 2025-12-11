@@ -1,6 +1,6 @@
 Overview
 
-This project implements a Hospital Appointment & Triage System using multiple core data structures, as required in Capstone Assignment 5.
+This project implements a Hospital Appointment & Triage System using multiple core data structures, as required in the assignment.
 
 The system models a realistic OPD (Outpatient Department) workflow, handling:
 
