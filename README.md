@@ -83,21 +83,7 @@ serve logic
 
 slot unbooking
 
-Run using:
 
-javac -cp .:junit-4.13.2.jar HospitalSystemSingleTest.java
-java -cp .:junit-4.13.2.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore HospitalSystemSingleTest
-
-Manual Test Mode
-
-Inside program:
-
-runTests();
-
-
-Enable with:
-
-java -ea HospitalSystemSingle
 
  Time & Space Complexity
 Circular Queue
